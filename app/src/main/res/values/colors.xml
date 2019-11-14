@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#013750</color>
+    <color name="colorPrimaryDark">#013750</color>
+    <color name="colorAccent">#a5c138</color>
+
+    <color name="zup">#013750</color>
+    <color name="zup2">#a5c138</color>
+</resources>

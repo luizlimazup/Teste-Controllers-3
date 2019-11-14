@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Teste Controllers 3</string>
+
+    <string name="name">Digite seu nome</string>
+    <string name="last_name">Digite seu sobrenome</string>
+    <string name="phone">Digite seu telefone</string>
+    <string name="mobile_phone">Digite seu celular</string>
+    <string name="cpf">Digite seu CPF</string>
+    <string name="rg">Digite seu RG</string>
+    <string-array name="school">
+        <item>Selecione sua escolaridade"</item>
+        <item>Ensino fundamental</item>
+        <item>Ensino Médio</item>
+        <item>Ensino Superior</item>
+    </string-array>
+    <string name="adress">Digite seu endereço</string>
+    <string name="neighborhood">Digite seu bairro</string>
+    <string name="passwprd">Digite sua senha</string>
+    <string name="password_confirm">Confirme sua senha</string>
+    <string-array name="state">
+        <item>Selecione seu estado</item>
+        <item>AC</item>
+        <item>AL</item>
+        <item>AP</item>
+        <item>AM</item>
+        <item>BA</item>
+        <item>CE</item>
+        <item>DF</item>
+        <item>ES</item>
+        <item>GO</item>
+        <item>MA</item>
+        <item>MT</item>
+        <item>MS</item>
+        <item>MG</item>
+        <item>PA</item>
+        <item>PB</item>
+        <item>PR</item>
+        <item>PE</item>
+        <item>PI</item>
+        <item>RJ</item>
+        <item>RN</item>
+        <item>RS</item>
+        <item>RO</item>
+        <item>RR</item>
+        <item>SC</item>
+        <item>SP</item>
+        <item>SE</item>
+        <item>TO</item>
+    </string-array>
+    <string name="btn_reset">Resetar</string>
+    <string name="btn_register">Cadastrar</string>
+    <string name="btn_done">Concluido</string>
+</resources>
